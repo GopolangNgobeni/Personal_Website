@@ -37,7 +37,7 @@ $(document).ready(function(){
 
     //Typing object
     var typed = new Typed('.typing',{
-        strings: ["Back-end Developer", "DevOps Enthusiast","Front-end Developer", "IoT Developer","Full Stack Enthusiast"],
+        strings: ["Back-end Developer", "AI / Machine Learning", "Full Stack Enthusiast", "DevOps Enthusiast" ,"Quality Assurance"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
